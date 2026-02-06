@@ -8,7 +8,7 @@ const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-playfa
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 
 export const metadata: Metadata = {
-  title: "GS Cycling Sri Lanka | Discover Paradise on Two Wheels",
+  title: "GSK Cycling Sri Lanka | Discover Paradise on Two Wheels",
   description:
     "Experience the natural beauty of Sri Lanka through cycling and hiking tours. From misty hills to palm-fringed beaches, explore UNESCO heritage sites and wildlife safaris.",
     generator: 'v0.app'
