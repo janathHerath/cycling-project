@@ -14,7 +14,7 @@ export function Footer() {
                 <Bike className="w-5 h-5 text-primary-foreground" />
               </div>
               <span className="text-xl font-bold">
-                GS Cycling <span className="text-primary">Sri Lanka</span>
+                GSK Cycling <span className="text-primary">Sri Lanka</span>
               </span>
             </Link>
             <p className="text-background/70 max-w-sm mb-6 leading-relaxed">
@@ -51,7 +51,7 @@ export function Footer() {
             </ul>
           </div>
 
-          <div>
+          {/* <div>
             <h4 className="font-bold mb-4">Newsletter</h4>
             <p className="text-background/70 text-sm mb-4">Subscribe for travel tips and exclusive offers.</p>
             <form className="flex gap-2">
@@ -62,12 +62,12 @@ export function Footer() {
               />
               <Button className="bg-primary text-primary-foreground hover:bg-primary/90 shrink-0">Subscribe</Button>
             </form>
-          </div>
+          </div> */}
         </div>
 
         <div className="border-t border-background/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-background/60 text-sm">
-            © {new Date().getFullYear()} GS Cycling Sri Lanka. All rights reserved.
+            © {new Date().getFullYear()} GSK Cycling Sri Lanka. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm">
             <Link href="#" className="text-background/60 hover:text-primary transition-colors">

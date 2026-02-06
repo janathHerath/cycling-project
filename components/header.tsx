@@ -26,7 +26,7 @@ export function Header() {
               <Bike className="w-5 h-5 text-primary-foreground" />
             </div>
             <span className="text-lg md:text-xl font-bold text-foreground">
-              GS Cycling <span className="text-primary">Sri Lanka</span>
+              GSK Cycling <span className="text-primary">Sri Lanka</span>
             </span>
           </Link>
 
