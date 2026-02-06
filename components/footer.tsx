@@ -66,9 +66,14 @@ export function Footer() {
         </div>
 
         <div className="border-t border-background/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-background/60 text-sm">
-            © {new Date().getFullYear()} GSK Cycling Sri Lanka. All rights reserved.
-          </p>
+        <div className="flex flex-col md:flex-row justify-between items-center gap-4">
+  <p className="text-background/60 text-sm">
+    © {new Date().getFullYear()} **CodemeticPlus**. All rights reserved.
+  </p>
+  <p className="text-background/60 text-sm">
+    Developed by <span className="font-semibold text-background hover:text-primary transition-colors cursor-pointer">CodemeticPlus</span>
+  </p>
+</div>
           <div className="flex gap-6 text-sm">
             <Link href="#" className="text-background/60 hover:text-primary transition-colors">
               Privacy Policy
