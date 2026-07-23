@@ -75,7 +75,7 @@ const itinerary = [
       "Downhill ride through stunning landscapes, hike Little Adam's Peak, explore the Ravana Story with its epic sites and scenic views.",
     fullDescription: "Day 8 is a downhill ride through some of the most stunning landscapes in Sri Lanka. Hike the iconic 'Little Adam's Peak' and explore the last stunning landscape in Ella Gap.\n\nYou will discover the epic Ravana Story and visit remarkable attractions including:\n• Nine Arches Bridge - iconic architectural marvel\n• Ravana Falls - spectacular waterfall\n• Ravana Zipline - thrilling adventure\n• Dowa Rock Temple - ancient Buddhist temple\n• Buddhist Monastery - spiritual site\n• Lipton's Seat - scenic viewpoint with panoramic vistas\n• Adisham Bungalow - colonial-era heritage property\n\nThis day combines natural beauty, adventure, cultural heritage and breathtaking views perfect for an unforgettable experience.",
     highlights: ["Little Adam's Peak hike", "Nine Arches Bridge", "Ravana Falls", "Scenic viewpoints"],
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/ella.jpg",
   },
   {
     day: 9,
@@ -111,7 +111,7 @@ const itinerary = [
       "Historic UNESCO World Heritage Site featuring Galle Fort built by Portuguese (1588), Dutch Reformed Church, lighthouse, and maritime museum.",
     fullDescription: "Galle is a historic city on Sri Lanka's southwestern coast offering a blend of charm, vibrant culture and natural beauty. Recognized as UNESCO World Heritage Site, Galle is renowned for its well-preserved Galle fort, bustling market and scenic beaches.\n\nGalle Fort: Originally built by the Portuguese in 1588 and later fortified by the Dutch in the 17th century, it stands as a testament to the island's colonial past. The fort's narrow streets are lined with colonial era buildings including:\n• Dutch Reformed Church\n• Galle Lighthouse\n• National Maritime Museum\n• Dutch Hospital\n• Police Barrack\n• Rampart with 14 Bastions\n\nEnjoy the panoramic views of the Indian Ocean and delve into the city's rich history.\n\nAdditional Attractions: Kottawa forest reserve with natural swimming pool and the scenic Unawatuna beach are perfect for relaxation and nature exploration.",
     highlights: ["Galle Fort", "Maritime Museum", "Unawatuna Beach"],
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/galle.jpg",
   },
 ]
 
